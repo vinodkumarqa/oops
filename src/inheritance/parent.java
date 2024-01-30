@@ -1,6 +1,3 @@
-package inheritance;
-public class parent {
-
 	//public void car() {
 	//	System.out.println("hyundai");
 		
@@ -12,8 +9,9 @@ public class parent {
 //}
 public void Animal(){
 	System.out.println("tiger");
-       }
-public void animal() {
-	System.out.println("lion");
+       }package inheritance;
+public class parent {
+
+
 }
 }
